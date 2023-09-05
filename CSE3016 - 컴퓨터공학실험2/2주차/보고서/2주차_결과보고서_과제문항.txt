@@ -1,0 +1,7 @@
+1. 연속 할당문, 절차형 할당문의 차이를 비교하여 설명하시오.
+
+2. Blocking 및 nonBlocking문법의 차이를 simulation을 통해 설명하시오.
+
+3. Verilog 의 for문, if문, while문, case문 을 C언어와 비교하여 설명하시오.
+
+4. Verilog 의 net 형 자료형에 대해서 조사하시오.
