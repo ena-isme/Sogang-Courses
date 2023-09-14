@@ -1,0 +1,6 @@
+1. 논리게이트 NAND/NOR/XOR의 구조를 Transistor-Level로 그리시오.
+2. NAND/NOR/XOR Logic의 특성에 조사하시오.
+3. 기본 논리게이트(AND/OR/NOT)와 변환 관계를 조사하시오.(NAND,NOR)
+4. AND-OR-INVERT logic의 응용.
+5. XOR의 logic의 구현방법.
+6. 기타이론.

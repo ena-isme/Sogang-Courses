@@ -1,0 +1,19 @@
+1. FPGA 동작법을 설명하시오.
+
+2. 3-input AND gate의 simulation 결과 및 과정에 대해서 설명하시오.
+(3 input, 2 output)[3장 ppt 31 page 참조 , 진리표 작성]
+
+3. 4-input AND gate의 simulation 결과 및 과정에 대해서 설명하시오.
+(4 input, 3 output)[3장 ppt 33 page 참조 , 진리표 작성]
+
+4. 3-input OR gate의 simulation 결과 및 과정에 대해서 설명하시오.
+(3 input, 2 output)[3장 ppt 35 page 참조, 진리표 작성]
+
+5. 4-input OR gate의 simulation 결과 및 과정에 대해서 설명하시오.
+(4 input, 3 output)[3장 ppt 37 page 참조, 진리표 작성]
+
+6. 결과 검토 및 논의사항.
+
+7. 추가 이론 조사 및 작성.
+ 
+※2~5번 문항은 강의자료의 (B)항 기준으로 작성해주세요.

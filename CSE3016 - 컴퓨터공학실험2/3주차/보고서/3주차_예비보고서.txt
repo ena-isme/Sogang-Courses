@@ -1,0 +1,5 @@
+1. 논리게이트 AND/OR/NOT의 구조를 Transistor-Level로 그리시오.
+2. AND/OR/NOT Logic의 특성을 조사하시오.
+3. Fan-out에 대하여 조사하시오.
+4. 전파지연에 대하여 조사하시오
+5. Verilog 의 task 및 function 에 대해 조사하시오
