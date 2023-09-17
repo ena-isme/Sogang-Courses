@@ -44,35 +44,32 @@ void input() {
 }
 
 void bfs(int y, int x) {
-    q.push(make_pair(make_pair(y, x),0));
+    q.push(make_pair(make_pair(y, x), 0));
     
     while(!q.empty()){
         
-        int y = q.front().first.first;
-        int x = q.front().first.second;
-        path[y][x] = q.front().second;
+        y = q.front().first.first;
+        x = q.front().first.second;
+        int tmp = q.front().second;
+        tmp++;
         q.pop();
-        bool shouldBreak = false;
         
-        if (path[y][x] < k) {
+        for(int i=0;i<12;i++){
             
-            for (int i = 0; i < 12; i++) {
-                int ny = y + dy[i];
-                int nx = x + dx[i];
-                
-                if (ny < 0 || nx < 0 || ny >= r || nx >= c || maze[ny][nx] == 1) continue;
-                
-                path[ny][nx] = path[y][x] + 1;
-                if (path[ny][nx] == k && ny == maxY && nx == maxX) {
-                    res++;
-                    shouldBreak = true;
-                }
-                else if (path[ny][nx] < k) q.push(make_pair(make_pair(ny, nx),path[ny][nx]));
-                
-                if (shouldBreak) {
-                    break;  // 플래그가 설정되면 for 루프 탈출
-                }
+            int ny = y + dy[i];
+            int nx = x + dx[i];
+            
+            if (ny < 0 || nx < 0 || ny >= r || nx >= c || maze[ny][nx] == 1) continue;
+            
+            if(ny==maxY && nx==maxX){
+                if(tmp == k) res++;
             }
+        
+            else{
+                if(tmp > k) break;
+                else q.push(make_pair(make_pair(ny, nx), tmp));
+            }
+            
         }
     }
 }
