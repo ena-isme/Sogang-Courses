@@ -1,0 +1,24 @@
+1. 실험 목적 
+ 
+  
+2. 4-input NAND gate의 simulation 결과 및 과정에 대해서 설명하시오.
+   (4 input, 3 output)[4장 ppt 8,9 page 참조 , 진리표 작성]
+  
+ 
+3. 4-input NOR gate의 simulation 결과 및 과정에 대해서 설명하시오.
+   (4 input, 3 output)[4장 ppt 12,13 page 참조 , 진리표 작성]
+ 
+  
+4. 4-input XOR gate의 simulation 결과 및 과정에 대해서 설명하시오.
+   (4 input, 3 output)[4장 ppt 14,15 page 참조 , 진리표 작성]
+ 
+  
+5. 4-input AOI gate의 simulation 결과 및 과정에 대해서 설명하시오.
+   (4 input, 3 output)[4장 ppt 16,17 page 참조, 진리표 작성]
+ 
+  
+6. 결과 검토 및 논의사항.
+ 
+ 
+7. 추가 이론 조사 및 작성.
+※ 2~5번 항목은 강의자료의 (B)항 기준으로 작성해주세요
