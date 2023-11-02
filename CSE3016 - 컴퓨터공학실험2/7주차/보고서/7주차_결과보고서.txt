@@ -1,0 +1,9 @@
+1. Even Parity bit generator 및 checker 의 simulation 결과 및 과정에 대해서 설명하시오. (진리표 작성 및 k-map 포함)
+ 
+2. Odd Parity bit generator 및 checker 의 simulation 결과 및 과정에 대해서 설명하시오. (진리표 작성 및 k-map 포함)
+ 
+3. 2-bit binary comparator simulation 결과 및 과정에 대해서 설명하시오. (진리표 작성 및 k-map 포함)
+ 
+4. 결과 검토 및 논의 사항.
+ 
+5. 추가 이론 조사 및 작성.

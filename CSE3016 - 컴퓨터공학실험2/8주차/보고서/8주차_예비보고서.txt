@@ -1,0 +1,9 @@
+1. 7-Segment Display에 대해 조사하시오.
+ 
+2. 7-Segment Display의 동작 원리에 대해 조사하시오.
+ 
+3. 7-Segment (Anode Type , Cathode Type) 에 대해 조사하시오 . 
+ 
+4. 7-Segment 의 구동 방식에 대해 설명하시오.
+ 
+5. 기타이론.
