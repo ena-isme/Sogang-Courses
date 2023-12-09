@@ -1,0 +1,10 @@
+1. RS Flip-Flop의 결과 및 Simulation 과정에 대해서 설명하시오.
+      (verilog source, simulation 출력 예시, table 등의 과정 상세히 적을것)
+※ NAND로 구성된 RS Flip-Flop과 NOR로 구성된 RS Flip-Flop 2가지 모두 작성할 것
+ 
+2. D Flip-Flop 의 결과 및 Simulation 과정에 대해서 설명하시오. 
+     (verilog source, simulation 출력 예시, table 등의 과정 상세히 적을것)
+ 
+3. 결과 검토 및 논의 사항.
+ 
+4. 추가 이론 조사 및 작성.

@@ -1,0 +1,5 @@
+1. Shift register 에 대해 조사하시오.
+2. Ring Counter 에 대해서 조사하시오.
+3. UP DOWN Counter 에 대해서 조사하시오.
+4. Ripple Counter 에 대해서 조사하시오.
+5. 기타 이론

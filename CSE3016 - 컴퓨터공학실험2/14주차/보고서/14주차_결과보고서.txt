@@ -1,0 +1,7 @@
+1. Overlapping 방식의 Sequence Detector 1101 Moore machine 구현
+(verilog source, simulation 결과, 상태도(State Table) 및 상태표(State Diagram)작성)
+ 
+2. Overlapping 방식의 Sequence Detector 10101 을 구현(mealy, moore machine 모두)
+(verilog source, simulation 결과, 상태도(State Table) 및 상태표(State Diagram)작성)
+ 
+* 수업에서 배우지 않은 방식으로 코드를 작성하거나 copy하는 경우 감점됩니다.

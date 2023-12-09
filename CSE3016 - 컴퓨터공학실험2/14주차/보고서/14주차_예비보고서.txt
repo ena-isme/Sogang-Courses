@@ -1,0 +1,5 @@
+1. FSM 에 대해서 설명하시오(예시 포함)
+2. Mealy machine 에 대해 조사하시오.
+3. Moore machine 에 대해 조사하시오.
+4. Sequence Detector 에 대해 조사하시오.
+5. 기타이론

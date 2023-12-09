@@ -1,0 +1,24 @@
+1. 2 to 4 Decoder 의 결과 및 Simulation 과정에 대해서 설명하시오. 
+     (Truth table 작성 및 k-map 포함, [Active high, Active low 두 경우 모두])
+ 
+2.   4 to 2 Encoder 의 결과 및 Simulation 과정에 대해서 설명하시오. 
+     (Truth table 작성 및 k-map 포함)
+ 
+3. 4 to 2 Encoder에서 입력 형태 4가지를 제외한 나머지 입력 형태는 무엇을 뜻하는지 설명하시오. 
+ 
+4. 4 to 2 encoder의 4가지 형태가 아닌 모든 입력 형태(16가지)에 대하여 동작되는 priority encoder의 논리 회로를 구성하여라.
+ 
+5. BCD to Decimal decoder 의 결과 및 Simulation 과정에 대해서 설명하시오. 
+(Truth table 작성 및 k-map 포함)
+ 
+6.   Encoder와 decoder의 주요 응용에 대하여 설명하시오.
+ 
+7.   4 to 1 line MUX  의 결과 및 Simulation 과정에 대해서 설명하시오. 
+     (code, Truth table 작성)
+ 
+8.   1 to 4 line deMUX 를 이용하여 4 to 16 decoder를 수행하고 결과를 나타내시오
+(코드, Truth table 작성)
+ 
+9.  결과 검토 및 논의 사항.
+ 
+10.  추가 이론 조사 및 작성.

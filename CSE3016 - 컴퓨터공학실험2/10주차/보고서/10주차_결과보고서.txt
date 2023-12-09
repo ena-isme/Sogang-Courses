@@ -1,0 +1,12 @@
+1. 4bit Binary Parallel Adder 의 결과 및 Simulation 과정에 대해서 설명하시오.
+      (verilog source, 출력 예시,  과정 상세히 적을것)
+ 
+2. 4bit Binary Parallel Subtractor 의 결과 및 Simulation 과정에 대해서 설명하시오.
+     (verilog source, 출력 예시,  과정 상세히 적을것)
+ 
+3. BCD Adder 의 결과 및 Simulation 과정에 대해서 설명하시오. 
+     (verilog source, 출력 예시,  과정 상세히 적을것)
+ 
+4. 결과 검토 및 논의 사항.
+ 
+5.  추가 이론 조사 및 작성.

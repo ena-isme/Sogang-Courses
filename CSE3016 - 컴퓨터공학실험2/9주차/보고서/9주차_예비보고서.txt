@@ -1,0 +1,11 @@
+1. Decoder 에 대해 조사하시오.
+ 
+2. Encoder 에 대해 조사하시오.
+ 
+3. Mux(Multiplexer) 에 대해 조사하시오.
+ 
+4. Priority Encoder 에 대해 조사하시오.
+ 
+5. DeMux와 Decoder의 차이를 설명하시오.
+ 
+6. 기타 이론.

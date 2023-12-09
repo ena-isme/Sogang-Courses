@@ -1,0 +1,12 @@
+1. 2-bit counter 의 결과 및 Simulation 과정에 대해서 설명하시오.
+      (verilog source code, 출력 예시/schematic 포함,  과정 상세히 적을것)
+ 
+2. 4-bit decade counter의 결과 및 Simulation 과정에 대해서 설명하시오.
+      (verilog source code, 출력 예시/schematic 포함,  과정 상세히 적을것)
+ 
+3. 4-bit 2421 decade counter 의 결과 및 Simulation 과정에 대해서 설명하시오. 
+      (verilog source code, 출력 예시/schematic 포함,  과정 상세히 적을것)
+ 
+4.   결과 검토 및 논의 사항.
+ 
+5.   추가 이론 조사 및 작성.

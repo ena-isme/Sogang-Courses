@@ -1,0 +1,9 @@
+1. Counter 에 대해서 조사하시오.(예시 포함)
+ 
+2. Decade Counter 에 대해서 조사하시오.
+ 
+3. 비동기식 Counter 및 동기식 Counter 에 대해서 조사하시오.
+ 
+4. FSM(finite-state machine) 에 대해서 조사하시오.
+ 
+5. 기타 이론
