@@ -1,0 +1,11 @@
+DELETE FROM image WHERE property_ID IN (1, 2);
+DELETE FROM transaction WHERE property_ID IN (1, 2);
+DELETE FROM property WHERE property_ID IN (1, 2);
+DELETE FROM agent WHERE agent_ID IN (1, 2);
+DELETE FROM district WHERE district_ID IN (1, 2);
+
+DROP TABLE IF EXISTS image;
+DROP TABLE IF EXISTS transaction;
+DROP TABLE IF EXISTS property;
+DROP TABLE IF EXISTS agent;
+DROP TABLE IF EXISTS district;
